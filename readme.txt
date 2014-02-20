@@ -17,6 +17,8 @@ Then this plugin is perfect for you. We allow you to show you visitors a disclai
 
 A custom admin menu lets you modify the text and some extra settings.
 
+An example is available on http://mindloop.be/disclaimer/
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
@@ -29,7 +31,6 @@ This section describes how to install the plugin and get it working.
 
 1. How it looks
 2. The admin interface
-
 
 == Changelog ==
 
