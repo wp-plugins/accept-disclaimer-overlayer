@@ -25,6 +25,12 @@ This section describes how to install the plugin and get it working.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You'll find a new menu called `disclaimer` in your Wordpress admin, go here to configure the plugin
 
+== Screenshots ==
+
+1. How it looks
+2. The admin interface
+
+
 == Changelog ==
 
 = 1.0 =
