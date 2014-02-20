@@ -29,8 +29,8 @@ This section describes how to install the plugin and get it working.
 
 == Screenshots ==
 
-1. How it looks
-2. The admin interface
+1. How it looks screenshot-1.(png|jpg|jpeg|gif)
+2. The admin interface screenshot-2.(png|jpg|jpeg|gif)
 
 == Changelog ==
 
